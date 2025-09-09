@@ -7,7 +7,7 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=piomin_sample-spring-microservices-new&metric=coverage)](https://sonarcloud.io/dashboard?id=piomin_sample-spring-microservices-new)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=piomin_sample-spring-microservices-new&metric=ncloc)](https://sonarcloud.io/dashboard?id=piomin_sample-spring-microservices-new)
 
-In this project I learnt about interesting features of [Spring Cloud Project](https://spring.io/projects/spring-cloud) for building microservice-based architecture.
+In this project I learnt about interesting features of the [Spring Cloud Project](https://spring.io/projects/spring-cloud) for building microservice-based architecture.
 
 -----
 
